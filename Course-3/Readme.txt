@@ -1,0 +1,1 @@
+Course 3 contains no programming assignments. It deals with techniques to implement deep neural networks.

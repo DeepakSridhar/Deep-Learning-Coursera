@@ -214,7 +214,7 @@ def create_training_example(background, activates, negatives):
 
 # IPython.display.Audio("train.wav")
 
-plt.plot(y[0])
+# plt.plot(y[0])
 
 # Load preprocessed training examples
 X = np.load("./XY_train/X.npy")
